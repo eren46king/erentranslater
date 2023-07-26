@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    background-color: black;
+    color: blue;
+}
+
+button {
+    background-color: aqua;
+    color: brown;
+}
